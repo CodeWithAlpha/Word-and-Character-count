@@ -1,0 +1,33 @@
+body{
+    background-color: darkslategrey;
+
+}
+
+#container{
+    display: flex;
+    margin: 10px 350px;
+}
+
+#textbox{
+resize: none;
+display: flex;
+border: 1px solid black;
+font-size: 15px;
+
+}
+
+#findbox{
+    resize: none;
+    height: 30px;
+    width: 99%;
+}
+
+
+h2,p{
+    background-color: aquamarine;
+    text-align: center;
+    align-items: center;
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid black;
+}
